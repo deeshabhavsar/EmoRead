@@ -17,11 +17,12 @@ You can view and interact with the app here: [EmoRead on AI Studio](https://emor
 
 ---
 
-## :technologist: My Contributions
-- Developed the *front-end* using React, implementing dynamic color visualizations and user interaction components.
-- Integrated the app with the *Gemini API* for emotion analysis.
-- Designed the final reading visualization experience.
-- Deployed the application to AI Studio.
+##  Contributions
+- Developed the *front-end* using React, implementing dynamic color visualizations and user interaction components -->Aimen Farooq
+- Integrated the app with the *Gemini API* and *SpeechBrain* for emotion analysis -->Deesha Bhavsar
+- Backend -->Bhargavi Gangoor
+- Designed the final reading visualization experience.-->Bhargavi Gangoor & Aimen Farooq
+- Deployed the application to AI Studio -->Deesha Bhavsar
 
 ---
 
@@ -29,7 +30,8 @@ You can view and interact with the app here: [EmoRead on AI Studio](https://emor
 - **[React](https://reactjs.org/)** — Front-end framework  
 - **[SpeechBrain](https://github.com/speechbrain/speechbrain?tab=readme-ov-file)** — PyTorch-based speech toolkit used for emotion detection  
 - *Node.js* — Backend and development environment  
-- *Gemini API* — Emotion analysis from audio input  
+- *Gemini API* — Emotion analysis from audio input
+- *Google genai"
 
 > *Note:* SpeechBrain and Gemini API are public frameworks; credit is given to their respective authors. All core application logic, front-end design, and integration were implemented by me.
 
